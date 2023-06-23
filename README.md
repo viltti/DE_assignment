@@ -33,4 +33,4 @@ To keep things simple and clear, the projects structure is also rather simple:
 
 ## Run locally
 
-**Clone the repository, navigate to the project directory, install dependencies and run the jupyter notebook:** jupyter lab / jupyter notebook / or launch in some appropriate IDE. remember to get the data from the link above, and put it in data/raw
+**Clone the repository, navigate to the project directory, install dependencies and run the jupyter notebook:** jupyter lab / jupyter notebook / or launch in some appropriate IDE. Get the data from the link above, and put it in data/raw.
