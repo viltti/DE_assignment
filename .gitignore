@@ -1,0 +1,17 @@
+# .gitignore
+
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+de_env/
+
+results/metrics/*
+!results/metrics/.gitkeep
+
+.ipynb_checkpoints
+
+.DS_Store
+
+*.env
