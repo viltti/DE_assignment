@@ -16,7 +16,7 @@ These attributes allow us to analyze and gain insights into the performance of t
 
 ## Structure 
 
-To keep things simple and clear, the projects structure is also rather simple:
+To keep things simple and clear, the projects structure is also rather simple and self-explanatory
 
 ```
 .
